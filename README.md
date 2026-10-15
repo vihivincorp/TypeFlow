@@ -120,6 +120,25 @@ npm run preview
 
 ---
 
+## 📚 Documentation & Reference Guides
+
+Comprehensive guides and technical documentation for TypeFlow:
+
+| Guide | Description |
+| :--- | :--- |
+| [⌨️ Keyboard Shortcuts](docs/KEYBOARD_SHORTCUTS.md) | In-test navigation, restart shortcuts, and zoom controls. |
+| [🏗️ Architecture Overview](docs/ARCHITECTURE.md) | Component data flow, typing engine, and cloud persistence. |
+| [⚡ Performance Standards](docs/PERFORMANCE.md) | Sub-millisecond keystroke latency and event pipeline. |
+| [🎯 Practice Modes](docs/MODES.md) | Time, Words, Quotes, Code, DSA, and Daily Challenge breakdown. |
+| [🎨 Themes & Aesthetics](docs/THEMES.md) | CSS custom properties, color palette tokens, and design system. |
+| [📊 Metrics & Analytics](docs/METRICS_EXPLAINER.md) | Standard WPM, Raw WPM, accuracy, consistency, and stamina. |
+| [💻 Local Setup Guide](docs/LOCAL_SETUP.md) | Step-by-step developer environment setup and prerequisites. |
+| [🗺️ Product Roadmap](docs/ROADMAP.md) | Completed milestones and upcoming feature roadmap. |
+| [❓ Frequently Asked Questions](docs/FAQ.md) | Common questions, troubleshooting, and scoring calculations. |
+| [🤝 Contributing Guidelines](docs/CONTRIBUTING.md) | Pull request workflow, branch naming conventions, and standards. |
+
+---
+
 ## 🤝 Contributing & Branching Workflow
 
 1. **Start from the latest main branch**:
